@@ -1,0 +1,8 @@
+A:\Dropbox\personal\c#\gol\gol\bin\Debug\gol.exe.config
+A:\Dropbox\personal\c#\gol\gol\bin\Debug\gol.exe
+A:\Dropbox\personal\c#\gol\gol\bin\Debug\gol.pdb
+A:\Dropbox\personal\c#\gol\gol\obj\Debug\gol.Properties.Resources.resources
+A:\Dropbox\personal\c#\gol\gol\obj\Debug\gol.csproj.GenerateResource.Cache
+A:\Dropbox\personal\c#\gol\gol\obj\Debug\gol.exe
+A:\Dropbox\personal\c#\gol\gol\obj\Debug\gol.pdb
+A:\Dropbox\personal\c#\gol\gol\obj\Debug\gol.csprojResolveAssemblyReference.cache
