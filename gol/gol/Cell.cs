@@ -12,6 +12,7 @@ namespace gameOfLife {
 
         private int cellX, cellY;
         private bool state;
+        private bool otherState;
 
         public Cell(int x, int y, int xPos, int yPos, int width, int height) {
             this.SetBounds(xPos, yPos, width, height);
@@ -30,6 +31,15 @@ namespace gameOfLife {
                     this.BackColor = Color.Aquamarine;
                 }
             }
+        }
+
+        public void update() {
+            alive = otherState;
+        }
+
+        public bool nextState {
+            get { return otherState; }
+            set { otherState = value; }
         }
 
         public int row {

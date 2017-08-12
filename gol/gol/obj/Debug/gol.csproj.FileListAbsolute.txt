@@ -6,3 +6,4 @@ A:\Dropbox\personal\c#\gol\gol\obj\Debug\gol.csproj.GenerateResource.Cache
 A:\Dropbox\personal\c#\gol\gol\obj\Debug\gol.exe
 A:\Dropbox\personal\c#\gol\gol\obj\Debug\gol.pdb
 A:\Dropbox\personal\c#\gol\gol\obj\Debug\gol.csprojResolveAssemblyReference.cache
+A:\Dropbox\personal\c#\gol\gol\obj\Debug\gameOfLife.Form1.resources
